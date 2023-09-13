@@ -12,9 +12,9 @@ Codigo em Python Sobre variáveis e concatenações
 
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código: Replit
-Linguagens: Python
-Bibliotecas: None
+> Editor de código: Replit;
+Linguagens: Python;
+Bibliotecas: None;
 
 ## Versões:
 
