@@ -1,20 +1,15 @@
-# Aula 2 Senai- Variaveis em python🚀
+# Senai- Programação em Python🚀
 
-Codigo em Python Sobre variáveis e concatenações  
+Codigo em Python no decorrer do curso "programação em Python" no senai 
 
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
 
-# 📋Pré-requisitos do sistema:
-
-> Um computador
-
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código: Replit;
+> Editor de código: Replit; Vscode;
 > Linguagens: Python;
-> Bibliotecas: None;
 
 ## Versões:
 
@@ -22,4 +17,4 @@ Codigo em Python Sobre variáveis e concatenações
 
 ## Autores:
 
-> Henrique Teixeira
+> Henrique T Oliveira
